@@ -1,5 +1,5 @@
 {
-  "name": "my-marketplace",
+  "name": "newfe-plugin",
   "owner": { "name": "kyc" },
   "metadata": {
     "description": "개인용 Claude Code 플러그인 모음",
