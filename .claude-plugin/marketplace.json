@@ -4,12 +4,12 @@
   "metadata": {
     "description": "개인용 Claude Code 플러그인 모음",
     "version": "1.0.0",
-    "pluginRoot": "./plugins"
+    "pluginRoot": "."
   },
   "plugins": [
     {
       "name": "visual-toolkit",
-      "source": "visual-toolkit",
+      "source": "./plugins/visual-toolkit",
       "description": "시각 자료 제작을 돕는 스킬 모음 (시각 전달 기법 추천 · 색상 팔레트 추천 · 슬라이드 레이아웃 추천)",
       "version": "1.0.0"
     }
