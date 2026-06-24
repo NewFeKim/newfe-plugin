@@ -1,0 +1,7 @@
+{
+  "name": "visual-toolkit",
+  "version": "1.0.0",
+  "description": "시각 자료 제작을 돕는 스킬 모음",
+  "author": { "name": "kyc" },
+  "keywords": ["visualization", "diagram", "infographic", "design"]
+}

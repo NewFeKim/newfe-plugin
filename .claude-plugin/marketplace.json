@@ -1,0 +1,17 @@
+{
+  "name": "my-marketplace",
+  "owner": { "name": "kyc" },
+  "metadata": {
+    "description": "개인용 Claude Code 플러그인 모음",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "visual-toolkit",
+      "source": "visual-toolkit",
+      "description": "시각 자료 제작을 돕는 스킬 모음 (시각 전달 기법 추천 등)",
+      "version": "1.0.0"
+    }
+  ]
+}
