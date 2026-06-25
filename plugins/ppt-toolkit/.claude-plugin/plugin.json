@@ -1,0 +1,8 @@
+{
+  "name": "ppt-toolkit",
+  "version": "1.0.0",
+  "description": "PPT 제작 end-to-end 워크플로 스킬 모음 (덱 기획 · 슬라이드 설계 · .pptx 생성)",
+  "author": { "name": "kyc" },
+  "keywords": ["ppt", "presentation", "powerpoint", "slide", "deck", "pptx"],
+  "skills": ["./skills/"]
+}
