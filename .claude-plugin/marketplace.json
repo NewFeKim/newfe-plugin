@@ -16,7 +16,7 @@
     {
       "name": "ppt-toolkit",
       "source": "./plugins/ppt-toolkit",
-      "description": "PPT 제작 end-to-end 워크플로 스킬 모음 (덱 기획 · 슬라이드 설계 · .pptx 생성)",
+      "description": "PPT 제작 end-to-end 워크플로 스킬 모음 (덱 기획 · 슬라이드 설계 · .pptx 생성). visual-toolkit 함께 설치 권장",
       "version": "1.0.0"
     }
   ]

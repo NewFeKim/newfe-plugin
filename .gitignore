@@ -1,0 +1,6 @@
+# skill-creator eval workspaces (로컬 테스트 결과, 배포 불필요)
+*-workspace/
+
+# OS
+Thumbs.db
+.DS_Store

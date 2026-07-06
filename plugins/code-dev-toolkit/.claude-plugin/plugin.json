@@ -3,5 +3,6 @@
   "version": "0.1.0",
   "description": "코드 개발을 돕는 스킬 모음 (예정)",
   "author": { "name": "kyc" },
-  "keywords": ["code", "development", "refactor", "review"]
+  "keywords": ["code", "development", "refactor", "review"],
+  "skills": ["./skills/"]
 }
